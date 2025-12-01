@@ -29,7 +29,6 @@ twitter_username:
 github_username:  cooqxj
 
 # Build settings
-timezone: Asia/Seoul
 theme: minima
 plugins:
   - jekyll-feed
