@@ -24,6 +24,7 @@ description: >-
   연봉 2억 오퍼 받는 그날까지
 baseurl: ""
 url: "https://cooqxj.github.io"
+permalink: /:categories/:title
 twitter_username: 
 github_username:  cooqxj
 
